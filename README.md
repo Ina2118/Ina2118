@@ -1,5 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=f9c4d2&text=Hello!%20I'm%20Irina%20🐾&fontAlignY=49&animation=fadeIn)
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F7A1C4&center=true&vCenter=true&width=700&lines=This+pretty+much+describes+me+when+I%E2%80%99m+deep+into+coding+%F0%9F%98%B8" />
+</p>
+
+
 
 *A junior front-end dev, mostly self-taught, turning chaos into code one cup of coffee at a time.*
   
