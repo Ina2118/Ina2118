@@ -14,12 +14,10 @@
 ![Chai](https://img.shields.io/badge/-chai-%23800000?style=for-the-badge&logo=chai&logoColor=white)
 ![Git](https://img.shields.io/badge/-git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
 
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ina2118&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=Ina2118&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
