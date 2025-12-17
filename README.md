@@ -1,8 +1,9 @@
 # Hello! I'm Irina :paw_prints:
 
 *A junior front-end dev, mostly self-taught, turning chaos into code one cup of coffee at a time.*
-  
 
+![Working Cat](https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif)
+  
 :rocket: **Ambitious, Creative, Curious**  
 
 :telescope: I’m turning ideas into code by creating my personal profile site and developing small front-end projects.  
