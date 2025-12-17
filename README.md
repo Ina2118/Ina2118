@@ -1,6 +1,7 @@
-#  About Me:
-🔭 Currently working on: my personal profile site and small front-end projects<br>🌱 Learning: React, Git, courses on SoftUni and Udemy<br>👯 Looking to collaborate on: interesting front-end projects<br>💬 Ask me about: programming and web technologies<br>⚡ Fun fact: I love experimenting with code and constantly improving my skills
-
+# Hello! I'm Irina ☕💻 
+A junior front-end dev, mostly self-taught, turning chaos into code one cup of coffee at a time
+:rocket: Ambitious, Creative, Curious<br>
+🔭 I’m turning ideas into code by creating my personal profile site and developing small front-end projects.<br>I’m sharpening my skills in React and Git by following courses on Udemy, and loving every step of the journey.<br>
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -19,9 +20,5 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-![Coding Cat](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHA2cjBnZHNvYTN5aHpxNWZsaXoxYmxlOWMzZzVnbnowbGN4dWtlYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iigcSmBaMUC5FoSUlu/giphy.gif)
-
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
