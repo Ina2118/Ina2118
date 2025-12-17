@@ -27,8 +27,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ina2118&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=22&duration=4000&pause=1000&color=F7A1C4&center=true&vCenter=true&width=700&lines=This%20pretty%20much%20describes%20me%20when%20I%E2%80%99m%20deep%20into%20coding%20%F0%9F%98%B8" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=22&duration=3500&pause=1200&color=F7A1C4&center=true&vCenter=true&width=700&lines=This%20pretty%20much%20describes%20me%20when%20I%E2%80%99m%20deep%20into%20coding%20%F0%9F%98%B8&cursorColor=F7A1C4" />
 </p>
+
 
 
 
