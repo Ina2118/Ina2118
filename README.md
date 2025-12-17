@@ -1,4 +1,4 @@
-# Hello! I'm Irina :paw_prints:
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hello!%20I'm%20Irina%20🐾&fontAlignY=49&animation=fadeIn)
 
 *A junior front-end dev, mostly self-taught, turning chaos into code one cup of coffee at a time.*
   
