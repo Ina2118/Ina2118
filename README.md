@@ -26,7 +26,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ina2118&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-#This pretty much describes me when I’m deep into coding :smile_cat:
+# This pretty much describes me when I’m deep into coding :smile_cat:
 
 ![Working Cat](https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif)
 
