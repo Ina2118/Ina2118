@@ -1,6 +1,6 @@
 # Hello! I'm Irina ☕💻  
 
-A junior front-end dev, mostly self-taught, turning chaos into code one cup of coffee at a time.  
+* A junior front-end dev, mostly self-taught, turning chaos into code one cup of coffee at a time.*  
 
 :rocket: **Ambitious, Creative, Curious**  
 
