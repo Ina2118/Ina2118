@@ -20,7 +20,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![Coding GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
