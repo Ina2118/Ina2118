@@ -1,4 +1,4 @@
-# Hello! I'm Irina ☕💻  
+# Hello! I'm Irina :paw_prints:
 
 *A junior front-end dev, mostly self-taught, turning chaos into code one cup of coffee at a time.*
   
