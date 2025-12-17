@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🔭 Currently working on: my personal profile site and small front-end projects<br>🌱 Learning: React, Git, courses on SoftUni and Udemy<br>👯 Looking to collaborate on: interesting front-end projects<br>💬 Ask me about: programming and web technologies<br>⚡ Fun fact: I love experimenting with code and constantly improving my skills
 
 
