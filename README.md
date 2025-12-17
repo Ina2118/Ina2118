@@ -1,7 +1,12 @@
-# Hello! I'm Irina ☕💻 
-A junior front-end dev, mostly self-taught, turning chaos into code one cup of coffee at a time
-:rocket: Ambitious, Creative, Curious<br>
-🔭 I’m turning ideas into code by creating my personal profile site and developing small front-end projects.<br>I’m sharpening my skills in React and Git by following courses on Udemy, and loving every step of the journey.<br>
+# Hello! I'm Irina ☕💻  
+
+A junior front-end dev, mostly self-taught, turning chaos into code one cup of coffee at a time.  
+
+:rocket: **Ambitious, Creative, Curious**  
+
+🔭 I’m turning ideas into code by creating my personal profile site and developing small front-end projects.  
+
+🌱 I’m sharpening my skills in **React** and **Git** by following courses on **Udemy**, and loving every step of the journey.
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
