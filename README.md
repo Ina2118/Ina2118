@@ -5,9 +5,9 @@
 
 :rocket: **Ambitious, Creative, Curious**  
 
-🔭 I’m turning ideas into code by creating my personal profile site and developing small front-end projects.  
+:telescope: I’m turning ideas into code by creating my personal profile site and developing small front-end projects.  
 
-🌱 I’m sharpening my skills in **React** and **Git** by following courses on **Udemy**, and loving every step of the journey.
+:rose: I’m sharpening my skills in **React** and **Git** by following courses on **Udemy**, and loving every step of the journey.
 
 :thought_balloon: I’m also interested in creating 3D websites and exploring interactive web experiences.
 
