@@ -31,7 +31,7 @@
 </p>
 
 
-
-![Working Cat](https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif)
-
+<p align="center">
+  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" alt="Working Cat">
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
