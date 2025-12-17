@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=f9c4d2&text=Hello!%20I'm%20Irina%20🐾&fontAlignY=49&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:FFB6C1,100:FFD1FF&animation=fadeIn)
+
 
 *A junior front-end dev, mostly self-taught, turning chaos into code one cup of coffee at a time.*
   
