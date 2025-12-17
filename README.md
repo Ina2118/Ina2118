@@ -1,8 +1,8 @@
 # Hello! I'm Irina :paw_prints:
 
-*A junior front-end dev, mostly self-taught, turning chaos into code one cup of coffee at a time.*
-
 ![Working Cat](https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif)
+
+*A junior front-end dev, mostly self-taught, turning chaos into code one cup of coffee at a time.*
   
 :rocket: **Ambitious, Creative, Curious**  
 
@@ -27,8 +27,5 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ina2118&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
