@@ -20,7 +20,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![Coding Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+![Coding Cat]([https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHA2cjBnZHNvYTN5aHpxNWZsaXoxYmxlOWMzZzVnbnowbGN4dWtlYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iigcSmBaMUC5FoSUlu/giphy.gif))
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
