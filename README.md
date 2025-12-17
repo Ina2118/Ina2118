@@ -9,6 +9,8 @@
 
 🌱 I’m sharpening my skills in **React** and **Git** by following courses on **Udemy**, and loving every step of the journey.
 
+:thought_balloon: I’m also interested in creating 3D websites and exploring interactive web experiences.
+
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
