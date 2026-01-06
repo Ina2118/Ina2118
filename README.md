@@ -23,10 +23,6 @@
 ![Chai](https://img.shields.io/badge/-chai-%23800000?style=for-the-badge&logo=chai&logoColor=white)
 ![Git](https://img.shields.io/badge/-git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ina2118&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=22&duration=3000&pause=1000&color=F7A1C4&center=true&vCenter=true&width=700&lines=My%20coding%20mood%20most%20of%20the%20time%20%F0%9F%98%B8&cursorColor=F7A1C4" />
