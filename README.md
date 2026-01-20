@@ -1,6 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=f9c4d2&text=Hello!%20I'm%20Irina%20🐾&fontAlignY=49&animation=fadeIn)
 
 *A junior front-end dev, mostly self-taught, turning chaos into code one cup of coffee at a time.*
+
+> **🔧 В момента обновявам GitHub профила си**  
+> ![Loading](https://i.gifer.com/ZZ5H.gif)  
+> Очаквайте скоро нови проекти и съдържание!
+
   
 :rocket: **Ambitious, Creative, Curious**  
 
