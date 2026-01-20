@@ -3,7 +3,7 @@
 *A junior front-end dev, mostly self-taught, turning chaos into code one cup of coffee at a time.*
 
  **🔧 Currently updating my GitHub profile. Stay tuned for new projects and content coming soon!**  
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW9xbzhqYnZtY2lqYjVuZHBpcGlsbzhzM3UybG5seXF6dXNwam0wbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uOGq4okS4jO9lQIyPj/giphy.gif" width="250">  
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW9xbzhqYnZtY2lqYjVuZHBpcGlsbzhzM3UybG5seXF6dXNwam0wbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uOGq4okS4jO9lQIyPj/giphy.gif" width="350">  
   
 :rocket: **Ambitious, Creative, Curious**  
 
