@@ -1,13 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=f9c4d2&text=Hello!%20I'm%20Irina%20🐾&fontAlignY=49&animation=fadeIn)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=f9c4d2&text=Hello!%20I'm%20Irina&fontAlignY=49&animation=fadeIn" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="120"/>
-</p>
-
 *A junior front-end dev, mostly self-taught, turning chaos into code one cup of coffee at a time.*
 
  **🔧 Currently updating my GitHub profile. Stay tuned for new projects and content coming soon!**  
