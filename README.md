@@ -9,7 +9,7 @@
 
 :telescope: I’m turning ideas into code by creating my personal profile site and developing small front-end projects.  
 
-:rose: I’m sharpening my skills in **React** and **Git** by following courses on **Udemy**, and loving every step of the journey.
+:rose: I’m gaining hands-on experience with **React**, **Git**, and **GitHub** during my internship, while continuously learning and growing as a developer.
 
 :thought_balloon: I’m also interested in creating 3D websites and exploring interactive web experiences.
 
