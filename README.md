@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=f9c4d2&text=Hello!%20I'm%20Irina%20🐾&fontAlignY=49&animation=fadeIn)
 
-*A junior front-end dev, mostly self-taught, turning chaos into code one cup of coffee at a time.*
+*Frontend Intern, mostly self-taught, turning chaos into code one cup of coffee at a time.*
 
  **🔧 Currently updating my GitHub profile. Stay tuned for new projects and content coming soon!**  
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW9xbzhqYnZtY2lqYjVuZHBpcGlsbzhzM3UybG5seXF6dXNwam0wbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uOGq4okS4jO9lQIyPj/giphy.gif" width="350">  
